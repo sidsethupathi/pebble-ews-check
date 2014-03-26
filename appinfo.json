@@ -1,0 +1,28 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "1cd5f3f4-54ff-46f2-8adc-8fdeb12c418c",
+    "appKeys": {
+        "init": 0,
+        "name2": 5,
+        "name3": 7,
+        "name0": 1,
+        "name1": 3,
+        "data1": 4,
+        "data0": 2,
+        "data3": 8,
+        "data2": 6
+    },
+    "longName": "EWS Utilization",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "EWS Check",
+    "companyName": "sid.sethupathi@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
